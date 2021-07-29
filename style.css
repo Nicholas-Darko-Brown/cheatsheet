@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: blanchedalmond;
+    font-family: "Lucida Console", Courier, monospace;
+  }
+  
+  #html-tags, #css-tags {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  td, th {
+    border: 2px solid black;
+    padding: 10px;
+  }
+  
+  thead {
+    font-weight: bold;
+    background-color: orange;
+  }
+  
+  h3 {
+    color: maroon;
+  }
+  
+  tr:nth-child(even) {
+      background-color: #f2f2f2;
+  }
+  
+  h1, h3 {
+    text-align: center;
+  }
+  
+  h1 {
+    text-decoration: underline;
+  }
+  
+  
